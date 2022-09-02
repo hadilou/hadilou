@@ -3,14 +3,7 @@
 <img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hadilou&hide_border=true" />
 </p>
 
-<p align="center">
-  <a href="https://ultralytics.com/">
-  <img width="900" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/banner-social.jpg"></a>
-</p>
-
 <div align="center">
-
-    <img width="3%" />
     <a href="https://www.linkedin.com/in/ahadilou">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="3%"/>
     </a>
