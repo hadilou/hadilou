@@ -1,7 +1,16 @@
-<p align="center">
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=hadilou&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-<img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hadilou&hide_border=true" />
-</p>
+---
+
+## &#x1f4c8; My GitHub Stats
+<div style="display: flex; flex-direction: row; height:200px">
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=hadilou&show_icons=true&theme=radical" height="200"/>
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadilou&theme=radical" height="200"/>
+</div>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadilou&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadilou&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hadilou&repo=DBScan-PCL-Optimized&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+---
 
 <div align="center">
     <a href="https://www.linkedin.com/in/ahadilou">
