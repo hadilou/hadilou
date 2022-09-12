@@ -1,5 +1,3 @@
----
-
 ## &#x1f4c8; My GitHub Stats
 <div style="display: flex; flex-direction: row; height:200px">
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=hadilou&show_icons=true&theme=radical" height="200"/>
@@ -10,7 +8,6 @@
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadilou&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hadilou&repo=DBScan-PCL-Optimized&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
----
 
 <div align="center">
     <a href="https://www.linkedin.com/in/ahadilou">
