@@ -3,6 +3,8 @@
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=hadilou&show_icons=true&theme=radical" height="200"/>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hadilou)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div align="center">
     <a href="https://www.linkedin.com/in/ahadilou">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="3%"/>
