@@ -4,11 +4,6 @@
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadilou&theme=radical" height="200"/>
 </div>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadilou&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadilou&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hadilou&repo=DBScan-PCL-Optimized&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
 <div align="center">
     <a href="https://www.linkedin.com/in/ahadilou">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="3%"/>
