@@ -1,7 +1,6 @@
 ## &#x1f4c8; My GitHub Stats
 <div style="display: flex; flex-direction: row; height:200px">
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=hadilou&show_icons=true&theme=radical" height="200"/>
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadilou&theme=radical" height="200"/>
 </div>
 
 <div align="center">
