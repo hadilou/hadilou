@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 85ca3830-e6a1-42fa-9812-c01c9ebd8b80
+      url: 'https://fanciful-marshmallow-fecb2a.netlify.app'
