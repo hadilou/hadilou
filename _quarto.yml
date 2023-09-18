@@ -1,8 +1,11 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
 website:
-  title: "myblog"
+  title: "Kayode Hadilou ADJE"
   navbar:
     right:
       - about.qmd
