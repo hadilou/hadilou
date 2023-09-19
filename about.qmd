@@ -21,5 +21,5 @@ about:
 
 Hello,
 I am Kayode Hadilou Adje, a machine learning engineer. I work at the intersection of software engineering, machine learning, geospatial computation and DevOps. If you need help with your projects, see me at ```
-kayode dot hadilou dot adje at gmail dot come
+kayode dot hadilou dot adje at gmail dot com
 ```
