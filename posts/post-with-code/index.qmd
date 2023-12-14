@@ -1,9 +1,9 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2023-09-19"
-categories: [news, code, analysis]
-image: "image.jpg"
+title: "Point point classification and segmentation with CNN"
+author: "Kayode Hadilou ADJE"
+date: "2023-12-14"
+categories: [point-cloud, kpconv, cnn, 3D]
+image: "../../resources/kpconv.png"
 ---
 
-This is a post with executable code.
+
