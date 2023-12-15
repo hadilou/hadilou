@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: IMG_7174.jpg
+image: resources/IMG_7174.jpg
 about:
   template: jolla
   links:
@@ -20,6 +20,4 @@ about:
 ---
 
 Hello,
-I am Kayode Hadilou Adje, a machine learning engineer. I work at the intersection of software engineering, machine learning, geospatial computation and DevOps. If you need help with your projects, see me at ```
-kayode dot hadilou dot adje at gmail dot com
-```
+I am Kayode Hadilou Adje, a machine learning engineer. I work at the intersection of software engineering, machine learning, geospatial computation and DevOps. If you need help with your projects, [Contact me](mailto:kayodehadilou.adje@gmail.com)
