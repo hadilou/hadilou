@@ -4,6 +4,9 @@ image: resources/IMG_7174.jpg
 about:
   template: jolla
   links:
+    - icon: blog
+      text: myblog
+      href: index.html
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ahadilou/
@@ -20,4 +23,4 @@ about:
 ---
 
 Hello,
-I am Kayode Hadilou Adje, a machine learning engineer. I work at the intersection of software engineering, machine learning, geospatial computation and DevOps. If you need help with your projects, [Contact me](mailto:kayodehadilou.adje@gmail.com)
+I am Kayode Hadilou Adje, a machine learning engineer / data scientist. I work at the intersection of software engineering, machine learning, geospatial computation and DevOps. If you need help with your projects, [Contact me](mailto:kayodehadilou.adje@gmail.com)
