@@ -1,12 +1,12 @@
 ---
-title: "Point cloud classification and segmentation with COnvolutional Neural Networks"
+title: "Point cloud classification and segmentation with Convolutional Neural Networks"
 author: "Kayode Hadilou ADJE"
 date: "2023-12-14"
 categories: [point-cloud, kpconv, cnn, 3D, point cloud segmentation]
 image: "../../resources/kpconv.png"
 ---
 
-### I. What are point cloud
+### I. What is a point cloud
 
 Point clouds are a mathematical sets of 3D points with **x,y,z** coordinates and with or without attribute(s). The attribute of a point cloud can be its R,G,B color indication, its class or the type of object it belongs to (ground, low vegetation, table, etc) or any other properties such as intensity, time of capture, etc. Point clouds are used to describe objects' properties such as shape, texture, color in 3D space.
 
