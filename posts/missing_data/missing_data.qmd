@@ -1,0 +1,36 @@
+---
+title: "Missing Data Imputation"
+author: "Kayode Hadilou ADJE"
+date: "2024-04-28"
+categories: [missing data, data imputation, simple imputer, KNN imputer, iterative imputer]
+image: "../../resources/missing_data.jpg"
+---
+
+In this blog post, I will walk you through how to deal with missing data in your machine learning tasks. I will focus on a real world dataset that contains missing data. 
+The dataset is put together to study obesity. It categorizes respondents into four different weight classes based on Body Mass Index (BMI): underweight, normal, overweight, obese. The dataset has 17 variables in total, only 2 of those do not contain missing data. So, it is a good example of real world scenario for missing data.
+
+
+**TABLE OF CONTENTS**
+
+- Missing data imputation
+
+    - Dataset  exploration
+
+    - Missing data analysis
+
+    - Missing data imputation
+
+    - Summary
+
+- Modelling
+
+    - Further data exploration
+
+    - Data preprocessing
+
+    - Modelling and Evaluation
+
+
+## Missing data imputation
+
+
