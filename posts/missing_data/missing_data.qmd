@@ -7,7 +7,7 @@ image: "../../resources/missing_data.jpg"
 ---
 
 In this blog post, I will walk you through how to deal with missing data in your machine learning tasks. I will focus on a real world dataset that contains missing data. 
-The dataset is put together to study obesity. It categorizes respondents into four different weight classes based on Body Mass Index (BMI): underweight, normal, overweight, obese. The dataset has 17 variables in total, only 2 of those do not contain missing data. So, it is a good example of real world scenario for missing data.
+The dataset is put together to study obesity. It categorizes respondents into four different weight classes based on Body Mass Index (BMI): underweight, normal, overweight, obese. The dataset has 17 variables in total, only 2 of those do not contain missing data. So, it is a good example of a real world scenario for missing data.
 
 
 **TABLE OF CONTENTS**
@@ -32,5 +32,15 @@ The dataset is put together to study obesity. It categorizes respondents into fo
 
 
 ## Missing data imputation
+
+#### Dataset exploration
+
+```{python}
+df = pd.read_csv("obesity.data.txt", sep="\t")
+df.sample(20)
+```
+
+
+The dataset which can be found in [obesity data](../../resources/obesity.data.txt) contains 
 
 
