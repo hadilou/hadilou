@@ -4,6 +4,7 @@ author: "Kayode Hadilou ADJE"
 date: "2023-12-14"
 categories: [point-cloud, kpconv, cnn, 3D, point cloud segmentation]
 image: "../../resources/kpconv.png"
+page-layout: article
 ---
 
 ### I. What is a point cloud
